@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="picker_demo" type="id" />
+    <item name="text_field_demo" type="id" />
+    <item name="toggle_demo" type="id" />
+    <item name="date_editText" type="id" />
+    <item name="time_editText" type="id" />
+</resources>
